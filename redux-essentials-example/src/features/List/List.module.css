@@ -1,0 +1,29 @@
+.animalItem{
+  position: relative;
+  padding: 40px;
+  padding-top: 10px;
+  padding-bottom: 80px;
+  flex-grow: 100;
+  border: 3px solid rgb(23, 37, 97);
+  flex-basis: 300px;
+}
+.animalList{
+  border: 3px solid rgb(23, 37, 97);
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 40px;
+}
+.title{
+  font-size: 40px;
+  text-align: center;
+  color:  rgb(23, 37, 97);
+
+  padding-top: 30px;
+}
+.input{
+padding: 3px;
+border: 3px solid rgb(23, 37, 97);
+width: 100px;
+margin-left: 3px;
+}

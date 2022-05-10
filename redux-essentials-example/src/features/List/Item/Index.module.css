@@ -1,0 +1,35 @@
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  table-layout: fixed;
+  margin-bottom: 10px;
+}
+.titleRule {
+  font-size: 40px;
+  text-align: center;
+  width: 100%;
+}
+.titleTableData {
+  padding: 20px;
+}
+.tableData {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  height: 25px;
+}
+.Input{
+  padding: 3px 10px;
+}
+
+.tableRule:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.tableRule:nth-child(3)> .tableData{
+  border-top: 0;
+}
+.form{
+  text-align: center;
+}
