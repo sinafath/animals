@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from ".pnpm/styled-components@5.3.5_react-dom@18.1.0+react@18.1.0/node_modules/styled-components";
 
 const Button = styled.button`
 padding: 5px 10px;
