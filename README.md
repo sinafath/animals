@@ -1,1 +1,1 @@
-link project:http://animals-omega.vercel.app/
+live:http://animals-omega.vercel.app/
